@@ -1,10 +1,10 @@
 ## I'm Python Full Stack Web Developer
 ## Skills
-Programming languages: Python, JavaScript,
-Web Technologies: HTML5, CSS3, Bootstrap,
-Frameworks: Django,
-Database: SQLite, MySQL,
-Tools: Git, GitHub, and VS Code,
+Programming languages: Python, JavaScript ||
+Web Technologies: HTML5, CSS3, Bootstrap ||
+Frameworks: Django ||
+Database: SQLite, MySQL ||
+Tools: Git, GitHub, and VS Code.
 <!--
 **EshwarNaikG/EshwarNaikG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
