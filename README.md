@@ -7,8 +7,11 @@ Database: SQLite, MySQL ||
 Tools: Git, GitHub, and VS Code.
 
 ## Projects
-## ersonal Portfolio Website | HTML, CSS, JavaScript
+## personal Portfolio Website | HTML, CSS, JavaScript
 ## Weather Forecast Web App | HTML, CSS, JavaScript, Open Weather API
+## Online Job Portal System | Python, Django, HTML, CSS, JavaScript, SQLite/MySQL
+## Hospital Management System | Python, Django, HTML, CSS, JavaScript, SQLite/MySQL
+## Ecommerce Website | HTML, CSS, JavaScript
 <!--
 **EshwarNaikG/EshwarNaikG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
