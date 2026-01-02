@@ -1,13 +1,13 @@
 ## I'm Python Full Stack Web Developer
 ## Skills
-Programming languages: Python, JavaScript ||
-Web Technologies: HTML5, CSS3, Bootstrap ||
-Frameworks: Django ||
-Database: SQLite, MySQL ||
-Tools: Git, GitHub, and VS Code.
+## Programming languages: Python, JavaScript 
+## Web Technologies: HTML5, CSS3, Bootstrap 
+## Frameworks: Django 
+## Database: SQLite, MySQL 
+## Tools: Git, GitHub, and VS Code.
 
 ## Projects
-## personal Portfolio Website | HTML, CSS, JavaScript
+## Personal Portfolio Website | HTML, CSS, JavaScript
 ## Weather Forecast Web App | HTML, CSS, JavaScript, Open Weather API
 ## Online Job Portal System | Python, Django, HTML, CSS, JavaScript, SQLite/MySQL
 ## Hospital Management System | Python, Django, HTML, CSS, JavaScript, SQLite/MySQL
