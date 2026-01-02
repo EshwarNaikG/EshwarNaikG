@@ -1,5 +1,5 @@
 ## I'm Python Full Stack Web Developer
-<!-- ## Skills
+## Skills
 Programming languages: Python, JavaScript ||
 Web Technologies: HTML5, CSS3, Bootstrap ||
 Frameworks: Django ||
@@ -13,7 +13,7 @@ Tools: Git, GitHub, and VS Code.
 ## Hospital Management System | Python, Django, HTML, CSS, JavaScript, SQLite/MySQL
 ## Ecommerce Website | HTML, CSS, JavaScript
 
--->
+
 <!--
 **EshwarNaikG/EshwarNaikG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
