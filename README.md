@@ -6,9 +6,9 @@ Frameworks: Django ||
 Database: SQLite, MySQL ||
 Tools: Git, GitHub, and VS Code.
 
-##Projects
-##Personal Portfolio Website | HTML, CSS, JavaScript
-##Weather Forecast Web App | HTML, CSS, JavaScript, Open Weather API
+## Projects
+## ersonal Portfolio Website | HTML, CSS, JavaScript
+## Weather Forecast Web App | HTML, CSS, JavaScript, Open Weather API
 <!--
 **EshwarNaikG/EshwarNaikG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
