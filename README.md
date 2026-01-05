@@ -1,4 +1,4 @@
-## I'm Python Full Stack Web Developer style="color:red"
+## I'm Python Full Stack Web Developer 
 ## SKILLS :-
 ## Programming languages: Python, JavaScript 
 ## Web Technologies: HTML5, CSS3, Bootstrap 
